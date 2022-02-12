@@ -1,4 +1,4 @@
-- 👋 Hi,I’m M.H.
+- 👋 Hi,I’m Marlon Hardin
 - 👀 I’m interested in technology and robotics.
 - 🌱 I’m currently learning Python and AI driven web design.
 - 💞️ I’m looking to collaborate on interesting projects.
